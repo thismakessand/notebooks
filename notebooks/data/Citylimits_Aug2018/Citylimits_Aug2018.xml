@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><metadata>
+<idinfo>
+<descript>
+<abstract>Citylimits for the 10 counties in the CAPCOG region. For newer version, please see GIS Data Services: Enhanced Data</abstract>
+<purpose>Citylimits Aug2018</purpose>
+</descript>
+<keywords>
+<theme>
+<themekt>None</themekt>
+<themekey>Administrative Boundaries</themekey>
+</theme>
+</keywords>
+<accconst>None</accconst>
+<useconst>DisclaimerDatasets available on CAPCOGs Free Regional Data website are for informational purposes and may not have been prepared for or be suitable for legal, engineering, or surveying purposes. It does not represent an on-the-ground survey and represents only the approximate relative location of property boundaries.</useconst>
+<datacred>CAPCOG</datacred>
+</idinfo>
+<metainfo>
+<metstdn>FGDC Content Standard for Digital Geospatial Metadata</metstdn>
+<metstdv>FGDC-STD-001-1998</metstdv>
+<mettc>local time</mettc>
+</metainfo>
+</metadata>

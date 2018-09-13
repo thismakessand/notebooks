@@ -1,0 +1,14 @@
+# Copyright (c) Jupyter Development Team.
+# Distributed under the terms of the Modified BSD License.
+
+version: "2"
+
+services:
+  notebook:
+    build: .
+    image: geo-notebook
+    container_name: geo
+    volumes:
+     - ./notebooks:/home/jovyan/work
+    ports:
+      - "8888:8888"
